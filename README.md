@@ -7,3 +7,6 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 * CSS Animations
 * Javascript
 * Netlify
+
+* Live Link
+* https://stately-snickerdoodle-04621f.netlify.app/
